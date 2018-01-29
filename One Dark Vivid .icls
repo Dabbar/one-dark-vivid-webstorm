@@ -1,11 +1,11 @@
-<scheme name="Vivid One Dark" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid " version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.8333334" />
   <metaInfo>
-    <property name="created">2018-01-09T13:02:46</property>
+    <property name="created">2018-01-29T13:29:04</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-09T13:02:50</property>
-    <property name="originalScheme">Vivid One Dark</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2018-01-29T13:29:12</property>
+    <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
@@ -37,6 +37,7 @@
     <option name="INDENT_GUIDE" value="4a493e" />
     <option name="LINE_NUMBERS_COLOR" value="5c6370" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="927318" />
     <option name="RIGHT_MARGIN_COLOR" value="484e5e" />
     <option name="SELECTED_INDENT_GUIDE" value="747369" />
     <option name="SELECTION_BACKGROUND" value="474a56" />
@@ -61,12 +62,12 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="BACKGROUND" value="5c2e2e" />
+        <option name="BACKGROUND" value="7d3939" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="743d3d" />
+        <option name="BACKGROUND" value="4a1a22" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -116,11 +117,6 @@
         <option name="FOREGROUND" value="d2945d" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="e5c17c" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.COLON">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -154,14 +150,10 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="61afef" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
@@ -195,11 +187,6 @@
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
         <option name="FOREGROUND" value="98c379" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -250,11 +237,6 @@
       <value />
     </option>
     <option name="COFFEESCRIPT.STRING">
-      <value>
-        <option name="FOREGROUND" value="98c379" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="98c379" />
       </value>
@@ -347,7 +329,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="FOREGROUND" value="d6d1ff" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -450,7 +432,7 @@
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="6f5062" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -511,6 +493,18 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="7d95de" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="e31b99" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="98c476" />
@@ -533,6 +527,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="827597" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="c14ac5" />
@@ -543,7 +543,12 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="cf9255" />
+        <option name="FOREGROUND" value="e5c240" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="87b785" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -727,8 +732,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="101" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="BACKGROUND" value="4b4b66" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -830,22 +835,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_ID">
-      <value>
-        <option name="FOREGROUND" value="df6a73" />
-      </value>
-    </option>
+    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="HAML_LINE_CONTINUATION">
       <value />
     </option>
-    <option name="HAML_RUBY_CODE">
-      <value />
-    </option>
-    <option name="HAML_STRING">
-      <value>
-        <option name="FOREGROUND" value="98c379" />
-      </value>
-    </option>
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_STRING_INTERPOLATED">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -853,11 +847,6 @@
     </option>
     <option name="HAML_TAG">
       <value />
-    </option>
-    <option name="HAML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="df6a73" />
-      </value>
     </option>
     <option name="HAML_TEXT">
       <value />
@@ -1050,7 +1039,7 @@
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="68e868" />
-        <option name="BACKGROUND" value="481515" />
+        <option name="BACKGROUND" value="6e1f1f" />
       </value>
     </option>
     <option name="JS.NUMBER">
@@ -1080,16 +1069,6 @@
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
-      </value>
-    </option>
-    <option name="JSON.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="5aaef1" />
-      </value>
-    </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="LABEL">
@@ -1916,11 +1895,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="TAG_ATTR_KEY">
-      <value>
-        <option name="FOREGROUND" value="d2945d" />
-      </value>
-    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cecece" />
@@ -1944,16 +1918,6 @@
     <option name="TS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-      </value>
-    </option>
-    <option name="TS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="e5c07b" />
-      </value>
-    </option>
-    <option name="TS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
     <option name="TS.STATIC_MEMBER_VARIABLE">
@@ -2009,7 +1973,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a3f10" />
+        <option name="BACKGROUND" value="55452c" />
         <option name="EFFECT_COLOR" value="a6b2c0" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
