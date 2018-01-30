@@ -1,10 +1,10 @@
 <scheme name="One Dark Vivid " version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.8333334" />
   <metaInfo>
-    <property name="created">2018-01-29T13:29:04</property>
+    <property name="created">2018-01-30T14:47:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-01-29T13:29:12</property>
+    <property name="modified">2018-01-30T14:48:01</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -250,6 +250,11 @@
       <value>
         <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -1123,6 +1128,12 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="757575" />
+      </value>
+    </option>
+    <option name="LUA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="MACRONAME">
