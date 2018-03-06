@@ -1,10 +1,10 @@
 <scheme name="One-Dark-Vivid" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.6666666" />
   <metaInfo>
-    <property name="created">2018-03-06T14:08:15</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-06T14:08:33</property>
+    <property name="created">2018-03-06T14:20:48</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2018-03-06T14:20:57</property>
     <property name="originalScheme">One-Dark-Vivid</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -403,15 +403,9 @@
     </option>
     <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="68e868" />
-        <option name="BACKGROUND" value="481515" />
-      </value>
-    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -433,11 +427,6 @@
       <value>
         <option name="FOREGROUND" value="6f5062" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="98c476" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -506,7 +495,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="98c476" />
+        <option name="FOREGROUND" value="827597" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1421,56 +1410,14 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="PY.CLASS_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="e5c17c" />
-      </value>
-    </option>
-    <option name="PY.COMMA">
-      <value />
-    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="98c476" />
-      </value>
-    </option>
-    <option name="PY.FUNC_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="61afef" />
-      </value>
-    </option>
-    <option name="PY.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="68e868" />
-        <option name="BACKGROUND" value="481515" />
-      </value>
-    </option>
-    <option name="PY.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c679dd" />
-      </value>
-    </option>
-    <option name="PY.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="d2945d" />
-      </value>
-    </option>
-    <option name="PY.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="d19a66" />
-      </value>
-    </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value />
     </option>
@@ -1479,16 +1426,13 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="PY.SELF_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-      </value>
-    </option>
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
